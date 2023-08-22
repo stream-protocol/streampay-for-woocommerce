@@ -1,4 +1,4 @@
-# StreamPayment (StreamPay) Gateway for WordPress and WooCommerce
+# StreamPayment Gateway for WordPress and WooCommerce
 
 ![StreamPayment Logo](https://i.imgur.com/75e2i2H.png)
 
