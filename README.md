@@ -1,6 +1,6 @@
 # StreamPayment (StreamPay) Gateway for WordPress and WooCommerce
 
-![StreamPayment Logo]([link_to_your_logo_image](https://i.imgur.com/75e2i2H.png))
+![StreamPayment Logo](https://i.imgur.com/75e2i2H.png)
 
 ## Introduction
 
@@ -51,3 +51,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to contribute to the project by forking and submitting pull requests. For any questions or feedback, please [open an issue](link_to_your_issues_page).
+
